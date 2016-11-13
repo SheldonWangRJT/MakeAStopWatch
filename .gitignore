@@ -12,3 +12,13 @@ build/StopWatchDemo.build/Debug-iphonesimulator/StopWatchDemo.build/dgph
 *.swiftdeps
 
 *.xcuserstate
+
+*.dat
+
+build/StopWatchDemo.build/Debug-iphonesimulator/StopWatchDemo.build/assetcatalog_dependencies
+
+build/Debug-iphonesimulator/StopWatchDemo.app/StopWatchDemo
+
+build/Debug-iphonesimulator/StopWatchDemo.app/_CodeSignature/CodeResources
+
+*.dat
