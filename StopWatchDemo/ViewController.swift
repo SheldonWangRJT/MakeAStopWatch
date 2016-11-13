@@ -67,7 +67,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         let minStr = (min == 0) ? "00" : "\(min)"
         let hourStr = (hour == 0) ? "00" : "\(hour)"
-        let secStr = (totalSec < 9) ? "0\(Float(totalSecMulti100)/100)" : "\(Float(totalSecMulti100)/100)"
+        let secStr = (totalSec < 10) ? "0\(Float(totalSecMulti100)/100)" : "\(Float(totalSecMulti100)/100)"
         
         timerLabel.text = "\(hourStr):\(minStr):\(secStr)"
     }
