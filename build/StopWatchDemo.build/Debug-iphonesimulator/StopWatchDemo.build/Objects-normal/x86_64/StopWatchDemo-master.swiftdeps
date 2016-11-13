@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "82ecdaa3359f3c983e069ef135c3acf6"
+build_time: [532308541, 486281000]
+inputs:
+  "/Users/Shinkangsan/Desktop/MY_TESTS/StopWatchDemo/StopWatchDemo/ViewController.swift": [532304159, 0]
+  "/Users/Shinkangsan/Desktop/MY_TESTS/StopWatchDemo/StopWatchDemo/AppDelegate.swift": [532301759, 0]

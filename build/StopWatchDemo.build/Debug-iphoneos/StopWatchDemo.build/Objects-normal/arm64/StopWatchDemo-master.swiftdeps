@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "c1debd17dde63c28fd0376d332419343"
+build_time: [532320456, 314593000]
+inputs:
+  "/Users/Shinkangsan/Desktop/MY_TESTS/StopWatchDemo/StopWatchDemo/ViewController.swift": !dirty [532304159, 0]
+  "/Users/Shinkangsan/Desktop/MY_TESTS/StopWatchDemo/StopWatchDemo/AppDelegate.swift": !dirty [532301759, 0]
